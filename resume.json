@@ -1,0 +1,285 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Aid Arslanagić",
+    "label": "Software Engineer",
+    "image": "https://raw.githubusercontent.com/aarsla/resume/master/avatar.png",
+    "picture": "https://raw.githubusercontent.com/aarsla/resume/master/avatar.png",
+    "email": "aarsla@gmail.com",
+    "phone": "+387 (61) 263-950",
+    "url": "https://github.com/aarsla",
+    "summary": "Application Developer and Systems Engineer in a wide variety of business applications. Particularly interested in IT systems design and applications development. In excess of 15 years of experience in a software development environment. Ability to come up fast on any learning curve and develop a deep and thorough understanding of the problem at hand. In-depth knowledge of all phases of analysis, design, data modeling, and development. Excellent programming knowledge and architectural skills, using high-level structured and object languages and technologies. Superior problem-solving skills, initiative and work ethic. Always interested in challenging projects.",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "aarsla",
+        "url": "https://www.linkedin.com/in/aarsla"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "ClearView",
+      "company": "ClearView",
+      "description": "A remote-first, distributed software company",
+      "position": "Senior Software Engineer",
+      "url": "https://clearview.team/",
+      "startDate": "2018",
+      "summary": "Senior backend software engineer working on multiple projects for different clients as well as for internal projects utilizing various tech stacks and programming languages",
+      "highlights": [
+        "Qatalog, US, [https://qatalog.com]: The go-to place for team collaboration, building the infrastructure for modern work",
+        "Flight-1, US, [https://flight-1.com]: End-to-end curriculum combining basic canopy skills and advanced canopy flight",
+        "Merit, US, [https://merits.com]: Verified identity ecosystem which brings visibility and liquidity to all digital credentials",
+        "Crowdfox, Germany, [https://www.crowdfox.com]: Innovative purchasing & comparison portals for corporations"
+      ]
+    },
+    {
+      "name": "InfoBIP",
+      "company": "InfoBIP",
+      "description": "A global leader in omnichannel communication",
+      "position": "Software Engineer",
+      "url": "https://www.infobip.com/",
+      "startDate": "2017",
+      "endDate": "2018",
+      "summary": "Java software engineer working in Automation team",
+      "highlights": [
+        "As part of ateam worked on development of in-house software for automating provisioning of virtual machines and software deployment process"
+      ]
+    },
+    {
+      "name": "US DoJ ICITAP/Engility",
+      "company": "US DoJ ICITAP/Engility",
+      "description": "The International Criminal Investigative Training Assistance Program (ICITAP)",
+      "position": "Software Developer and System Integrator",
+      "url": "https://www.justice.gov/criminal-icitap",
+      "startDate": "2006",
+      "endDate": "2017",
+      "summary": "Worked on IT aspects on different law-enforcement and judicial strengthening projects",
+      "highlights": [
+        "State Border Guard Service, Bosnia and Herzegovina: Collect intelligence data in electronic form. Organize and build relationships between entities (persons, vehicles, weapons, locations, etc.). Provide basic search and communication capabilities based on access level rights.",
+        "Ministry of Interior, Bosnia and Herzegovina: Software for tracking police evidence handling and chain of custody with barcode scanning capabilities.",
+        "State Investigation and Protection Agency, Bosnia and Herzegovina: Design and implementation of State Police Network project (SPIN), countrywide secure wireless network connecting over 70 border crossings and other points of interest."
+      ]
+    },
+    {
+      "name": "EuroproNET",
+      "company": "EuroproNET",
+      "description": "Internet Service Provider",
+      "position": "System Engineer",
+      "url": "http://europronet.ba/",
+      "startDate": "2003",
+      "endDate": "2006",
+      "summary": "Worked on IT aspects on different law-enforcement and judicial strengthening projects",
+      "highlights": [
+        "Design and implementation of Cable Provisioning System with billing",
+        "DNS system planning, implementation and administration",
+        "Designed and implemented network core monitoring system",
+        "mplementation of custom Unix based VPN solution",
+        "Corporate Intranet / web development",
+        "Web hosting management"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "ULK BiH",
+      "position": "Translator",
+      "url": "https://bs.wikipedia.org/wiki/ULK_BiH",
+      "startDate": "2004",
+      "endDate": "2004",
+      "summary": "Local Linux Users Group",
+      "highlights": [
+        "Linux translations to Bosnian"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University 'Džemal Bijedić'",
+      "url": "https://www.fit.ba",
+      "area": "Information Technology",
+      "studyType": "Bachelor of Science (with honors)",
+      "startDate": "2000",
+      "endDate": "2007",
+      "score": "8.2",
+      "courses": [
+        "Introduction to Information Technology",
+        "Mathematics",
+        "Data Structures & Algorhytms",
+        "Fundamentals of Economics and Business",
+        "English 1",
+        "Architecture of Computer Systems",
+        "Introduction to Operating Systems",
+        "Statistics & Probability",
+        "Sports Activities",
+        "Contemporary Operating Systems",
+        "Reporting",
+        "Sociology",
+        "English 2",
+        "Introduction to Databases",
+        "Introduction to Computer Networks",
+        "Introduction to Programming",
+        "Computer Networks",
+        "Database Management Systems",
+        "Programming",
+        "Management and Information Systems",
+        "Information Systems",
+        "English 3",
+        "Decision-Making Support Technologies",
+        "Project",
+        "Electronic Business Operation",
+        "Geographic Information Systems",
+        "Marketing & Information Systems",
+        "Software Engineering",
+        "Internet Technologies",
+        "Information Technologies - Analysis and Design",
+        "English 4",
+        "Information Technology Management",
+        "Strategic Use of Information Technologies",
+        "Distance Learning",
+        "Human-Computer Interaction",
+        "Project: Internet Technologies"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "A+",
+      "date": "2000-01-01",
+      "issuer": "CompTIA",
+      "url": "https://www.comptia.org"
+    },
+    {
+      "name": "Network+",
+      "date": "2000-01-01",
+      "issuer": "CompTIA",
+      "url": "https://www.comptia.org"
+    },
+    {
+      "name": "Microsoft Certified Systems Engineer",
+      "date": "1999-01-01",
+      "issuer": "Microsoft",
+      "url": "https://www.microsoft.com"
+    }
+
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "Master",
+      "keywords": [
+        "Objective-C",
+        "Java",
+        "PHP",
+        "Javascript",
+        "HTML/CSS",
+        "Json/XML"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Master",
+      "keywords": [
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Elastic Search"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "Master",
+      "keywords": [
+        "Unix",
+        "Linux",
+        "Windows",
+        "MacOS"
+      ]
+    },
+    {
+      "name": "Networking",
+      "level": "Master",
+      "keywords": [
+        "TCP/IP v4",
+        "Cisco IOS"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Bosnian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent - TOEFL 630, IELTS 7.3"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": [
+        "Piano"
+      ]
+    },
+    {
+      "name": "Sports",
+      "keywords": [
+        "Aikido"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Scott McKnight, ENGILITY",
+      "reference": "During his eleven (11) years as an Engility contractor to DOJ/ICITAP, Mr. Arslanagić has worked on numerous classifed law enforcement related projects that cost millions of dollars to design and put into operation. Mr. Arslanagić is highly motivated, able to multi task and a very professional employee who would be a highly valued asset to any organization."
+    },
+    {
+      "name": "James J. Tillman, ICITAP",
+      "reference": "Throughout his work with ICITAP Mr. Aid Arslanagić has proven to be a valuable member of our agency, skillful, intelligent, communicative and capable of handling tasks posed upon him as well as any organizational issues he was faced with. His persistence and adaptation skills made difference more than once and got distinctive contribution to the projects he was working on."
+    },
+    {
+      "name": "Aleksandar Dostić, INFOBIP",
+      "reference": "Mr. Arslanagić proved himself to be a very fast learner, and always ready to mentor and teach other members. When developing a product, he always has clients satisfaction and usability at first place. With excellent teamwork skills, Mr. Arslanagić is a reliable person and an employee that does whatever is necessary to do an extraordinary job."
+    },
+    {
+      "name": "Amir Oručević, EUROPRONET",
+      "reference": "I recommend Mr. Arslanagić without hesitation for a senior technical position, including any combination of project management, technical architecture, software design and development, and customer relationship management."
+    },
+    {
+      "name": "Goran Milojković, INLIFE",
+      "reference": "Aid displayed the qualities that make an IT Engineer successful. He is dependable, motivated and in tune with the needs of our customers. Based on my experience working with him, I can unreservedly recommend Aid Arslanagić to you."
+    }
+  ],
+  "projects": [
+    {
+      "name": "super.ba",
+      "description": "Live B&H news feed aggregator",
+      "highlights": [
+        "RSS Parser: rss node.js / mongodb / axios / amqplib",
+        "API: node.js / fastify / jwt / mongodb / websockets",
+        "Frontend: vue / vuex / vue router / axios / jwt / websockets",
+        "AMQP: RabbitMQ"
+      ],
+      "keywords": [
+        "RSS",
+        "Javascript"
+      ],
+      "endDate": "2020",
+      "url": "https://super.ba",
+      "roles": [
+        "Designer",
+        "Developer"
+      ],
+      "entity": "super.ba",
+      "type": "web application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/aarsla/resume/master/resume.json",
+    "version": "v1.0.0",
+    "theme": "caffeine",
+    "lastModified": "2022-03-26T15:53:00"
+  }
+}
