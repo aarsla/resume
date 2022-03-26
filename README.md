@@ -6,5 +6,7 @@ in [JSON Resume Schema](https://github.com/jsonresume/resume-schema)
 [Resume](https://registry.jsonresume.org/aarsla)
 
 [Spartan theme](https://registry.jsonresume.org/aarsla?theme=Spartan)
+
 [OnePage theme](https://registry.jsonresume.org/aarsla?theme=OnePage)
-[Paper theme]https://registry.jsonresume.org/aarsla?theme=Paper)
+
+[Paper theme](https://registry.jsonresume.org/aarsla?theme=Paper)
